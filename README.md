@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dvij-Joshi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/1470-shuffle-the-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dvij-Joshi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dvij-Joshi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dvij-Joshi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dvij-Joshi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dvij-Joshi/LeetCode/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dvij-Joshi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
