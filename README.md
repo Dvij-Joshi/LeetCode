@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dvij-Joshi/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dvij-Joshi/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Dvij-Joshi/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Dvij-Joshi/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Dvij-Joshi/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Dvij-Joshi/LeetCode/tree/master/0035-search-insert-position) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dvij-Joshi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
