@@ -10,10 +10,7 @@ class Solution:
         current=head
         # prev=dummy
         # temp=None
-        temp=current.next
-        prev=current
-        current.next=None
-        current=temp
+        prev=None
         while current:
             temp=current.next
             current.next=prev
