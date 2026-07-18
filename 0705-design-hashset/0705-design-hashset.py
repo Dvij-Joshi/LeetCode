@@ -1,22 +1,22 @@
 class MyHashSet:
 
-    def __init__(self,size=7):
-        self.size=size
-        self.bucket=[[] for _ in range(size)]
+    def __init__(self):
+        self.hash = [ [] for _ in range (1000)]
 
     def add(self, key: int) -> None:
-        b = hash(key) % self.size
-        if key not in self.bucket[b]:
-            self.bucket[b].append(key)
+        bucket= self.hash[key % 1000]
+        if key not in bucket:
+            bucket.append(key)
 
     def remove(self, key: int) -> None:
-        b = hash(key) % self.size
-        if key in self.bucket[b]:
-            self.bucket[b].remove(key)
-
+        bucket= self.hash[key % 1000]
+        if key in bucket:
+            bucket.remove(key)
     def contains(self, key: int) -> bool:
-        b = hash(key) % self.size
-        return key in self.bucket[b] 
+        bucket= self.hash[key % 1000]
+        if key in bucket:
+            return True
+        return False
 
 
 # Your MyHashSet object will be instantiated and called as such:
