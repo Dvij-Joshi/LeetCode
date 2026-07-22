@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dvij-Joshi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dvij-Joshi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dvij-Joshi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -136,6 +138,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dvij-Joshi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dvij-Joshi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
