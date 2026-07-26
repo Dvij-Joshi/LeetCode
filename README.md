@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dvij-Joshi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Dvij-Joshi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dvij-Joshi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Dvij-Joshi/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Dvij-Joshi/LeetCode/tree/master/0392-is-subsequence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dvij-Joshi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dvij-Joshi/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dvij-Joshi/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dvij-Joshi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/Dvij-Joshi/LeetCode/tree/master/0705-design-hashset) |
 ## Binary Search
