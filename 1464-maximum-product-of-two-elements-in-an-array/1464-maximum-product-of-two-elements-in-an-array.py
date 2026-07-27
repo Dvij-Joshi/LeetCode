@@ -1,6 +1,5 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        nums.sort(reverse=True)
         max1=max2=0
         for n in nums:
             if n > max1:
