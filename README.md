@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Dvij-Joshi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Dvij-Joshi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Dvij-Joshi/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Dvij-Joshi/LeetCode/tree/master/0392-is-subsequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dvij-Joshi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Dvij-Joshi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dvij-Joshi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Dvij-Joshi/LeetCode/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/Dvij-Joshi/LeetCode/tree/master/0705-design-hashset) |
