@@ -4,13 +4,11 @@ class Solution:
         i=0
         while i<len(s):
             if s[i] in d:
-                if d[s[i]] != t[i]:
+                if d[s[i]]!=t[i]:
                     return False
-                i+=1
             else:
                 if t[i] in d.values():
                     return False
-                d[s[i]] = t[i]  
-                i+=1
+                d[s[i]]=t[i]
+            i+=1
         return True
-        
