@@ -222,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/Dvij-Joshi/LeetCode/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
