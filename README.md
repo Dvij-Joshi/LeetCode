@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Dvij-Joshi/LeetCode/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dvij-Joshi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dvij-Joshi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dvij-Joshi/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
