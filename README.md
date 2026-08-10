@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Dvij-Joshi/LeetCode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Dvij-Joshi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dvij-Joshi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Dvij-Joshi/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dvij-Joshi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dvij-Joshi/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Dvij-Joshi/LeetCode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Dvij-Joshi/LeetCode/tree/master/0486-predict-the-winner) |
 ## String Matching
 |  |
