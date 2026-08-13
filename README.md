@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Dvij-Joshi/LeetCode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Dvij-Joshi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Dvij-Joshi/LeetCode/tree/master/0486-predict-the-winner) |
+| [0575-distribute-candies](https://github.com/Dvij-Joshi/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dvij-Joshi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Dvij-Joshi/LeetCode/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Dvij-Joshi/LeetCode/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/Dvij-Joshi/LeetCode/tree/master/0457-circular-array-loop) |
+| [0575-distribute-candies](https://github.com/Dvij-Joshi/LeetCode/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/Dvij-Joshi/LeetCode/tree/master/0705-design-hashset) |
 ## Binary Search
 |  |
