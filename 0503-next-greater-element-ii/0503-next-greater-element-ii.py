@@ -10,5 +10,3 @@ class Solution:
             if i<n:
                 stack.append(i)
         return ans
-        #Dvij Joshi
-        #24C21516
