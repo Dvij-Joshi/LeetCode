@@ -11,7 +11,6 @@ class Solution:
             answer.append(current.val)
             current=current.next
         answer.sort()
-        print(answer)
         dummy=ListNode(0)
         dummy_head=dummy
         for num in answer:
