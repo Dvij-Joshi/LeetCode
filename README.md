@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Dvij-Joshi/LeetCode/tree/master/0457-circular-array-loop) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Dvij-Joshi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Dvij-Joshi/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dvij-Joshi/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dvij-Joshi/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Dvij-Joshi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dvij-Joshi/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dvij-Joshi/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Dvij-Joshi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Dvij-Joshi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/Dvij-Joshi/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dvij-Joshi/LeetCode/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Dvij-Joshi/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
