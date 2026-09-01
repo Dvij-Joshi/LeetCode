@@ -5,7 +5,7 @@ class Solution:
         right=len(s)-1
         s=list(s)
         while left<right:
-            if left<len(s) and s[left].lower() in vowels:
+            if  s[left].lower() in vowels:
                 if s[right].lower() in vowels:
                     s[left],s[right]=s[right],s[left]
                     left+=1
