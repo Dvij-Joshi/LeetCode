@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dvij-Joshi/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Dvij-Joshi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Dvij-Joshi/LeetCode/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/Dvij-Joshi/LeetCode/tree/master/0457-circular-array-loop) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Dvij-Joshi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dvij-Joshi/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Dvij-Joshi/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Dvij-Joshi/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
