@@ -13,7 +13,6 @@ class Solution:
                 max2=num
             elif num>max3:
                 max3=num
-        # print(len_nums)
         if max3==float('-inf'):
             return max1
         return max3
