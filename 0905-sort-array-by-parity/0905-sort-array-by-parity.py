@@ -1,21 +1,21 @@
 class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
-        # left=0
-        # right=len(nums)-1
-        # while left<right:
-        #     if nums[left]%2!=0 and nums[right]%2==0:
-        #         nums[left],nums[right]=nums[right],nums[left]
-        #         left+=1
-        #     elif nums[left]%2==0:
-        #         left+=1
-        #     elif nums[right]%2!=0:
-        #         right-=1
-        # return nums   
-        num=[]
-        num1=[]
-        for i in nums:
-            if i%2==0:
-                num.append(i)
-            else:
-                num1.append(i)
-        return num+num1
+        left=0
+        right=len(nums)-1
+        while left<right:
+            if nums[left]%2!=0 and nums[right]%2==0:
+                nums[left],nums[right]=nums[right],nums[left]
+                left+=1
+            elif nums[left]%2==0:
+                left+=1
+            elif nums[right]%2!=0:
+                right-=1
+        return nums   
+        # num=[]
+        # num1=[]
+        # for i in nums:
+        #     if i%2==0:
+        #         num.append(i)
+        #     else:
+        #         num1.append(i)
+        # return num+num1
