@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Dvij-Joshi/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dvij-Joshi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Dvij-Joshi/LeetCode/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/Dvij-Joshi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Dvij-Joshi/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Dvij-Joshi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Dvij-Joshi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Dvij-Joshi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Dvij-Joshi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dvij-Joshi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dvij-Joshi/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dvij-Joshi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Dvij-Joshi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Dvij-Joshi/LeetCode/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
 | ------- |
