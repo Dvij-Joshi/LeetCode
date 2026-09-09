@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dvij-Joshi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -284,12 +285,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dvij-Joshi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dvij-Joshi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dvij-Joshi/LeetCode/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dvij-Joshi/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
