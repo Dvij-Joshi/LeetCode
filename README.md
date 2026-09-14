@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Dvij-Joshi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dvij-Joshi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dvij-Joshi/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Dvij-Joshi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dvij-Joshi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dvij-Joshi/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Dvij-Joshi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dvij-Joshi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Dvij-Joshi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Dvij-Joshi/LeetCode/tree/master/0283-move-zeroes) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dvij-Joshi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dvij-Joshi/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Dvij-Joshi/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dvij-Joshi/LeetCode/tree/master/0326-power-of-three) |
