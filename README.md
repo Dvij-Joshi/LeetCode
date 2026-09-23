@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dvij-Joshi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Dvij-Joshi/LeetCode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Dvij-Joshi/LeetCode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Dvij-Joshi/LeetCode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Dvij-Joshi/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dvij-Joshi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Dvij-Joshi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dvij-Joshi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Dvij-Joshi/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Dvij-Joshi/LeetCode/tree/master/0860-lemonade-change) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dvij-Joshi/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
