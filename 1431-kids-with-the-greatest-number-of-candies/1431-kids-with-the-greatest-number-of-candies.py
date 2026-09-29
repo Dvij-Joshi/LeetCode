@@ -5,11 +5,6 @@ class Solution:
         result=[]
         for i in range(len(candies)):
             NumSum=candies[i]+extraCandies
-            print("Candies :",candies[i])
-            print("Extra Candies :",extraCandies)
-            # maxSum=max(maxSum,NumSum)
-            print("NumSum :",NumSum)
-            print("maxSum :",maxSum)
             if NumSum>=maxSum:
                 result.append(True)
             else:
