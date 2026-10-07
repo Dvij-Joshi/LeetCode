@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Dvij-Joshi/LeetCode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Dvij-Joshi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dvij-Joshi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Dvij-Joshi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Dvij-Joshi/LeetCode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Dvij-Joshi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Dvij-Joshi/LeetCode/tree/master/0860-lemonade-change) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dvij-Joshi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dvij-Joshi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Dvij-Joshi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
